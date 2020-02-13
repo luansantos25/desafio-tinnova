@@ -5,7 +5,7 @@ Repositório destinado ao versionamento das aplicações solicitadas pelo desafi
 <ul>
   <li>Desenvolvidas com Node.js</li>
   <li>Para executar, rode o comando <code>node app.js</code> em cada atividade </li>
-<ul>
+</ul>
 
 <h1>Atividade complementar</h1>
 <h3>Backend</h3>
@@ -22,4 +22,4 @@ Repositório destinado ao versionamento das aplicações solicitadas pelo desafi
   <li>Para executar, instale as dependências com <code>yarn install</code> </li>
   <li>Em seguida, execute <code>yarn start</code> </li>
   <li>A aplicação será executada, consumindo o webservice inicializado anteriormente</li>
-<ul>
+</ul>
